@@ -1,0 +1,1 @@
+self.on("click", function (simpleStorage) {	self.postMessage('empty');	/*while (simpleStorage.quotaUsage > 0) {		simpleStorage.storage.emailLists.pop();		console.log('empting...');	}*/});

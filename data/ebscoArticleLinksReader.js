@@ -73,4 +73,3 @@ function anchorClicker() {
 	});
 }
 
-//alert('fuck');

@@ -99,4 +99,3 @@ function anchorClicker() {
 		}
 	});
 }
-//alert('fuck');
